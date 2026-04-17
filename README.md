@@ -130,5 +130,3 @@ jupyter notebook notebooks/ifood_campaign_analysis.ipynb
 ## Author
 
 **Pedro Iavarone Custódio**
-- GitHub: [@PedroIavaroneCustodio](https://github.com/PedroIavaroneCustodio)
-- Email: piavaronecustodio@gmail.com
