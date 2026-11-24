@@ -121,8 +121,8 @@ The raw data is not tracked in this repo. See [`data/README.md`](data/README.md)
 ## Run it yourself
 
 ```bash
-git clone https://github.com/PedroIavarone/ifood-data-analysis.git
-cd ifood-data-analysis
+git clone https://github.com/PedroIavarone/ifood-campaign-response-prediction.git
+cd ifood-campaign-response-prediction
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -137,7 +137,7 @@ jupyter notebook notebooks/ifood_campaign_analysis.ipynb
 ## Project structure
 
 ```
-ifood-data-analysis/
+ifood-campaign-response-prediction/
 ├── assets/                              # Charts used in this README
 ├── data/
 │   └── README.md                        # Dataset dictionary & download instructions
